@@ -1,0 +1,11 @@
+{
+  "name": "download-all-media-from-mitene",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kogayushi/download-all-media-from-mitene",
+  "author": "koga yushi <youshe.old.pleasure@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
